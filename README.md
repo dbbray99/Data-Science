@@ -1,5 +1,5 @@
 Data-Science
-------------
+=============
 This repo is an area where I can experiment and learn both GitHub and R
 
 - this is a list
